@@ -1,0 +1,2 @@
+input_video=/home/lingmisaki/Desktop/2.mp4
+output_image=/home/lingmisaki/Desktop/datasetImg
